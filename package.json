@@ -7,11 +7,11 @@
     "lib": "lib"
   },
   "scripts": {
-      "postinstall": "prisma generate",
-      "dev": "next dev",
-     "build": "next build",
-     "start": "next start",
-     "lint": "next lint"
+    "postinstall": "prisma generate",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +20,7 @@
   "dependencies": {
     "@neondatabase/serverless": "^1.0.1",
     "@prisma/client": "^6.15.0",
+    "ansi-styles": "5.2.0",
     "bcryptjs": "^3.0.2",
     "jsonwebtoken": "^9.0.2",
     "next": "^15.5.2",
