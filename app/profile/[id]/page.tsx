@@ -93,7 +93,7 @@ export default function ProfilePage() {
     <main className="max-w-xl mx-auto p-6 bg-white shadow-md mt-8 rounded-lg">
        <div className="w-full max-w-lg bg-white rounded-xl shadow-md p-6">
         <div className="flex items-center justify-between mb-4">
-          <h1 className="text-2xl font-bold mb-2 items-center">✅ Todo App</h1>
+          <h1 className="text-2xl font-bold mb-2 items-center"> ✅ Todo App</h1>
         </div>
 
       </div>
